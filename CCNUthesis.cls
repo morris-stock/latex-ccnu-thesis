@@ -52,8 +52,8 @@
   dvipdfm,
   unicode=true,%
   %CJKbookmarks,
-  pdfauthor=cuckoo,%
-  pdftitle=Privacy-Preserving Data Mining,
+  pdfauthor=,%
+  pdftitle=,
   colorlinks,%
   linkcolor=black,%blue,%
   citecolor=black,%blue,%
