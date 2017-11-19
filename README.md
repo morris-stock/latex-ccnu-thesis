@@ -1,0 +1,1 @@
+# LaTeX CCNU thesis class
